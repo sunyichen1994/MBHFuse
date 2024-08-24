@@ -5,9 +5,8 @@
 
 This is official implementation of ["MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features"] with Pytorch.
 
-## Tips
 
-The Training Set is [here](https://pan.baidu.com/s/1p0Q_4hR2Z-P0rTqEdSP2yg).
+## Tips
 
 The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
 
