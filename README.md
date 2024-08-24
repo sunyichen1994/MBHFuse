@@ -23,15 +23,15 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
 
 
 ## The network architecture of the proposed MBHFuse
-![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture.PNG)
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture/The%20network%20architecture.jpg)
 
 
 ## Structure of GFE
-![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/GFE.PNG)
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture/GFE.jpg)
 
 
 ## Structure of LFE
-![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/LFE.PNG)
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture/LFE.jpg)
 
 
 ## Comparison with SOTA methods
