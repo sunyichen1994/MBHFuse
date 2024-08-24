@@ -22,6 +22,17 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
  * pandas 1.3.5
 
 
+## The network architecture of the proposed MBHFuse
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture.PNG)
+
+
+## Structure of GFE
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/GFE.PNG)
+
+
+## Structure of LFE
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/LFE.PNG)
+
 ## Citation
 
 If you find this repository useful, please consider citing the following paper:
@@ -36,4 +47,4 @@ If you find this repository useful, please consider citing the following paper:
 ```
 
 
-If you have any questions, feel free to contact me [(sunyichen0429@163.com)](https://mail.163.com/js6/main.jsp?sid=xMFYnfWaORnHKpbUgkaasQZyBepbpdcM&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D).
+If you have any questions, feel free to contact me [(sunyichen0429@163.com)](https://mail.163.com/js6/main.jsp?sid=BLOSvOwNCyRWPapVZwNNnLfjPVLzpCxa&df=mail163_letter#module=compose.ComposeModule%7C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1724508401548%22%7D).
