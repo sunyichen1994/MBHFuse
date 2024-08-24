@@ -63,4 +63,4 @@ If you find this repository useful, please consider citing the following paper:
 ```
 
 
-If you have any questions, feel free to contact me [(sunyichen0429@163.com)](https://mail.163.com/js6/main.jsp?sid=BLOSvOwNCyRWPapVZwNNnLfjPVLzpCxa&df=mail163_letter#module=compose.ComposeModule%7C%7B%22type%22%3A%22compose%22%2C%22fullScreen%22%3Atrue%2C%22cid%22%3A%22c%3A1724508401548%22%7D).
+If you have any questions, feel free to contact me (sunyichen@emails.bjut.edu.cn)
