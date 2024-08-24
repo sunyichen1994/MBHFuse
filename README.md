@@ -1,4 +1,4 @@
-# MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features (JOLT)
+# MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features (JOLT 2024)
 
 
 ## Introduction
