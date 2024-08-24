@@ -33,6 +33,23 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
 ## Structure of LFE
 ![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/LFE.PNG)
 
+
+## Comparison with SOTA methods
+### Fusion results on TNO dataset
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/TNO.jpg)
+
+### Fusion results on RoadScene dataset
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/RoadScene.jpg)
+
+### Fusion results on MSRS dataset
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/MSRS.jpg)
+
+### Fusion results on M3FD dataset
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/M3FD.jpg)
+
+### Fusion results on LLVIP dataset
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/LLVIP.jpg)
+
 ## Citation
 
 If you find this repository useful, please consider citing the following paper:
