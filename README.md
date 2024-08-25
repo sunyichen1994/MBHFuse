@@ -54,12 +54,13 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
 If you find this repository useful, please consider citing the following paper:
 
 ```
-<@article{sun2024JOLT,
+@article{sun2024JOLT,
   title={MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with
          Differential Convolutional Amplification Features},
   author={Sun, Yichen and Dong, Mingli and Yu, Mingxin and Zhu, Lianqing},
   journal={Optics and Laser Technology},
   year={2024}
+  }  
 ```
 
 
