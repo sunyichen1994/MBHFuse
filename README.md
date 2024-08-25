@@ -21,7 +21,7 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
  * pandas 1.3.5
 
 
-## The network architecture of the proposed MBHFuse
+## Framework
 ![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/The%20network%20architecture/The%20network%20architecture.jpg)
 
 
@@ -49,6 +49,11 @@ The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
 ### Fusion results on LLVIP dataset
 ![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/LLVIP.jpg)
 
+### Quantitative fusion results
+![Image text](https://github.com/sunyichen1994/MBHFuse/blob/main/Qualitative%20evaluation/Quantitative%20fusion%20results.jpg
+)
+
+
 ## Citation
 
 If you find this repository useful, please consider citing the following paper:
@@ -65,3 +70,11 @@ If you find this repository useful, please consider citing the following paper:
 
 
 If you have any questions, feel free to contact me (sunyichen@emails.bjut.edu.cn)
+
+
+## Acknowledgements
+
+Parts of this code repository is based on the following works:
+
+ * https://github.com/linklist2/PIAFusion_pytorch
+ * https://github.com/Zhaozixiang1228/MMIF-CDDFuse
