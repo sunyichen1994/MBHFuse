@@ -1,4 +1,4 @@
-# MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features (JOLT 2024)
+# MBHFuse: A multi- branch heterogeneous global and local infrared and visible image fusion with differential convolutional amplification features (JOLT 2024)
 
 
 ## Introduction
@@ -60,10 +60,14 @@ If you find this repository useful, please consider citing the following paper:
 
 ```
 @article{sun2024JOLT,
-  title={MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features},
+  title={MBHFuse: A multi- branch heterogeneous global and local infrared and visible image fusion with differential convolutional amplification features},
   author={Sun, Yichen and Dong, Mingli and Yu, Mingxin and Zhu, Lianqing},
   journal={Optics and Laser Technology},
-  year={2024}
+  year={2025},
+  volume={181},
+  part={A},
+  pages={111666},
+  doi={10.1016/j.optlastec.2024.111666}}
   }  
 ```
 
