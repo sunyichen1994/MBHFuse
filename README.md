@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is official implementation of ["MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features"] with Pytorch.
+This is official implementation of ["MBHFuse: A Multi- branch Heterogeneous Global and Local Infrared and Visible Image Fusion with Differential Convolutional Amplification Features"](https://www.sciencedirect.com/science/article/pii/S0030399224011241) with Pytorch.
 
 
 ## Tips
