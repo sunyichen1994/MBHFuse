@@ -8,7 +8,7 @@ This is official implementation of ["MBHFuse: A Multi- branch Heterogeneous Glob
 
 ## Tips
 
-The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg).
+The Trained Model is [here](https://pan.baidu.com/s/1t675r_PeK2qPCddDCgKnEg), and the code is: MBHF.
 
 
 ## Recommended Environment
@@ -67,7 +67,7 @@ If you find this repository useful, please consider citing the following paper:
   volume={181},
   part={A},
   pages={111666},
-  doi={10.1016/j.optlastec.2024.111666}}
+  doi={10.1016/j.optlastec.2024.111666}
   }  
 ```
 
